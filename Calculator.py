@@ -1,4 +1,3 @@
-#Assignment 
 import math
 class CalcOne():
     def __init__(self, a):
